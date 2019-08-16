@@ -1,0 +1,1 @@
+Hai, this is my first file to check git on my Mac. 
